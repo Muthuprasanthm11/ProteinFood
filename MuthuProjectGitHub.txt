@@ -5,3 +5,4 @@ Step1: Identfy protein food
 Step2: Find Gym
 Step3: Add location
 Step4: Fins Shop Location
+Step5: Add Chef
